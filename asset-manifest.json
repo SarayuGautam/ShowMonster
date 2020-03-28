@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/css/main.0f8ab20e.chunk.css",
+    "main.js": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/main.1bc6254c.chunk.js",
+    "main.js.map": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/main.1bc6254c.chunk.js.map",
+    "runtime-main.js": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/runtime-main.9a771a93.js",
+    "runtime-main.js.map": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/runtime-main.9a771a93.js.map",
+    "static/js/2.5da29e99.chunk.js": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/2.5da29e99.chunk.js",
+    "static/js/2.5da29e99.chunk.js.map": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/2.5da29e99.chunk.js.map",
+    "index.html": "/https//sarayugautam.github.io/Monster-Rolodex-react/index.html",
+    "precache-manifest.413c1bb63f94688568be01e50d61eebb.js": "/https//sarayugautam.github.io/Monster-Rolodex-react/precache-manifest.413c1bb63f94688568be01e50d61eebb.js",
+    "service-worker.js": "/https//sarayugautam.github.io/Monster-Rolodex-react/service-worker.js",
+    "static/css/main.0f8ab20e.chunk.css.map": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/css/main.0f8ab20e.chunk.css.map",
+    "static/js/2.5da29e99.chunk.js.LICENSE.txt": "/https//sarayugautam.github.io/Monster-Rolodex-react/static/js/2.5da29e99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a771a93.js",
+    "static/js/2.5da29e99.chunk.js",
+    "static/css/main.0f8ab20e.chunk.css",
+    "static/js/main.1bc6254c.chunk.js"
+  ]
+}
